@@ -1,0 +1,201 @@
+RUN	20140422145347	queryshowtraversewithinstances	 
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	0		traverse and return all non-deleted assets' instances	1398192829680	1398192829680	1398192877375	1398192889716	KO	Request reached time out of 60000 ms after 60008 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	0	1398192829619	1398192889756
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	1		traverse and return all non-deleted assets' instances	1398192829759	1398192829759	1398192880261	1398192889764	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	1	1398192829758	1398192889765
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	2		traverse and return all non-deleted assets' instances	1398192829860	1398192829860	1398192880368	1398192889867	KO	Request reached time out of 60000 ms after 60006 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	2	1398192829858	1398192889870
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	3		traverse and return all non-deleted assets' instances	1398192829959	1398192829959	1398192880575	1398192889964	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	3	1398192829958	1398192889968
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	4		traverse and return all non-deleted assets' instances	1398192830060	1398192830060	1398192878053	1398192890067	KO	Request reached time out of 60000 ms after 60005 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	4	1398192830058	1398192890068
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	5		traverse and return all non-deleted assets' instances	1398192830159	1398192830159	1398192880576	1398192890163	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	5	1398192830158	1398192890166
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	6		traverse and return all non-deleted assets' instances	1398192830259	1398192830259	1398192877595	1398192890264	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	6	1398192830258	1398192890269
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	7		traverse and return all non-deleted assets' instances	1398192830360	1398192830360	1398192878080	1398192890365	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	7	1398192830358	1398192890368
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	8		traverse and return all non-deleted assets' instances	1398192830460	1398192830460	1398192877657	1398192890465	KO	Request reached time out of 60000 ms after 60005 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	8	1398192830458	1398192890468
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	9		traverse and return all non-deleted assets' instances	1398192830559	1398192830559	1398192878333	1398192890564	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	9	1398192830558	1398192890568
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	10		traverse and return all non-deleted assets' instances	1398192830659	1398192830659	1398192880341	1398192890663	KO	Request reached time out of 60000 ms after 60003 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	10	1398192830658	1398192890665
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	11		traverse and return all non-deleted assets' instances	1398192830770	1398192830770	1398192880679	1398192890774	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	11	1398192830768	1398192890779
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	13		traverse and return all non-deleted assets' instances	1398192830959	1398192830959	1398192880575	1398192891023	KO	Request reached time out of 60000 ms after 60062 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	13	1398192830958	1398192891027
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	12		traverse and return all non-deleted assets' instances	1398192830859	1398192830859	1398192878448	1398192891024	KO	Request reached time out of 60000 ms after 60163 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	12	1398192830858	1398192891032
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	14		traverse and return all non-deleted assets' instances	1398192831060	1398192831060	1398192878134	1398192891066	KO	Request reached time out of 60000 ms after 60005 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	14	1398192831058	1398192891068
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	15		traverse and return all non-deleted assets' instances	1398192831160	1398192831160	1398192880915	1398192891165	KO	Request reached time out of 60000 ms after 60005 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	15	1398192831158	1398192891166
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	16		traverse and return all non-deleted assets' instances	1398192831259	1398192831259	1398192880909	1398192891264	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	16	1398192831258	1398192891268
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	17		traverse and return all non-deleted assets' instances	1398192831360	1398192831360	1398192880883	1398192891366	KO	Request reached time out of 60000 ms after 60005 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	17	1398192831358	1398192891369
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	18		traverse and return all non-deleted assets' instances	1398192831460	1398192831460	1398192880906	1398192891465	KO	Request reached time out of 60000 ms after 60005 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	18	1398192831458	1398192891467
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	19		traverse and return all non-deleted assets' instances	1398192831559	1398192831559	1398192880855	1398192891565	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	19	1398192831558	1398192891568
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	20		traverse and return all non-deleted assets' instances	1398192831659	1398192831659	1398192880847	1398192891664	KO	Request reached time out of 60000 ms after 60003 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	20	1398192831658	1398192891666
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	21		traverse and return all non-deleted assets' instances	1398192831760	1398192831760	1398192878377	1398192891765	KO	Request reached time out of 60000 ms after 60005 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	21	1398192831758	1398192891767
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	22		traverse and return all non-deleted assets' instances	1398192831859	1398192831859	1398192878039	1398192891864	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	22	1398192831858	1398192891866
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	23		traverse and return all non-deleted assets' instances	1398192831960	1398192831960	1398192878554	1398192891966	KO	Request reached time out of 60000 ms after 60005 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	23	1398192831958	1398192891968
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	24		traverse and return all non-deleted assets' instances	1398192832060	1398192832060	1398192878381	1398192892065	KO	Request reached time out of 60000 ms after 60005 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	24	1398192832058	1398192892067
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	25		traverse and return all non-deleted assets' instances	1398192832159	1398192832159	1398192880172	1398192892164	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	25	1398192832158	1398192892167
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	26		traverse and return all non-deleted assets' instances	1398192832259	1398192832259	1398192880843	1398192892263	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	26	1398192832258	1398192892276
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	27		traverse and return all non-deleted assets' instances	1398192832359	1398192832359	1398192877565	1398192892363	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	27	1398192832358	1398192892375
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	28		traverse and return all non-deleted assets' instances	1398192832460	1398192832460	1398192878383	1398192892465	KO	Request reached time out of 60000 ms after 60005 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	28	1398192832458	1398192892470
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	29		traverse and return all non-deleted assets' instances	1398192832560	1398192832560	1398192880896	1398192892566	KO	Request reached time out of 60000 ms after 60005 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	29	1398192832558	1398192892568
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	30		traverse and return all non-deleted assets' instances	1398192832659	1398192832659	1398192880907	1398192892664	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	30	1398192832658	1398192892665
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	31		traverse and return all non-deleted assets' instances	1398192832760	1398192832760	1398192877690	1398192892767	KO	Request reached time out of 60000 ms after 60006 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	31	1398192832758	1398192892768
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	32		traverse and return all non-deleted assets' instances	1398192832859	1398192832859	1398192878243	1398192892864	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	32	1398192832858	1398192892866
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	33		traverse and return all non-deleted assets' instances	1398192832960	1398192832960	1398192880646	1398192892966	KO	Request reached time out of 60000 ms after 60006 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	33	1398192832958	1398192892967
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	34		traverse and return all non-deleted assets' instances	1398192833059	1398192833059	1398192880572	1398192893063	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	34	1398192833058	1398192893064
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	35		traverse and return all non-deleted assets' instances	1398192833159	1398192833159	1398192878044	1398192893164	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	35	1398192833158	1398192893166
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	36		traverse and return all non-deleted assets' instances	1398192833260	1398192833260	1398192880911	1398192893265	KO	Request reached time out of 60000 ms after 60005 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	36	1398192833258	1398192893267
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	37		traverse and return all non-deleted assets' instances	1398192833359	1398192833359	1398192880915	1398192893364	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	37	1398192833358	1398192893366
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	38		traverse and return all non-deleted assets' instances	1398192833510	1398192833510	1398192876716	1398192893550	KO	Request reached time out of 60000 ms after 60039 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	38	1398192833508	1398192893552
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	39		traverse and return all non-deleted assets' instances	1398192833609	1398192833609	1398192880866	1398192893613	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	39	1398192833608	1398192893614
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	40		traverse and return all non-deleted assets' instances	1398192833709	1398192833709	1398192877998	1398192893713	KO	Request reached time out of 60000 ms after 60003 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	40	1398192833708	1398192893715
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	41		traverse and return all non-deleted assets' instances	1398192833810	1398192833810	1398192880855	1398192893814	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	41	1398192833808	1398192893815
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	42		traverse and return all non-deleted assets' instances	1398192833910	1398192833910	1398192877927	1398192893920	KO	Request reached time out of 60000 ms after 60006 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	42	1398192833908	1398192893925
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	43		traverse and return all non-deleted assets' instances	1398192834009	1398192834009	1398192880162	1398192894014	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	43	1398192834008	1398192894017
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	44		traverse and return all non-deleted assets' instances	1398192834110	1398192834110	1398192880266	1398192894114	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	44	1398192834108	1398192894115
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	45		traverse and return all non-deleted assets' instances	1398192834209	1398192834209	1398192880827	1398192894213	KO	Request reached time out of 60000 ms after 60003 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	45	1398192834208	1398192894214
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	46		traverse and return all non-deleted assets' instances	1398192834310	1398192834310	1398192876824	1398192894315	KO	Request reached time out of 60000 ms after 60005 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	46	1398192834308	1398192894318
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	47		traverse and return all non-deleted assets' instances	1398192834409	1398192834409	1398192880911	1398192894414	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	47	1398192834408	1398192894416
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	48		traverse and return all non-deleted assets' instances	1398192834509	1398192834509	1398192877501	1398192894512	KO	Request reached time out of 60000 ms after 60003 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	48	1398192834508	1398192894514
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	49		traverse and return all non-deleted assets' instances	1398192834609	1398192834609	1398192880818	1398192894614	KO	Request reached time out of 60000 ms after 60003 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	49	1398192834608	1398192894616
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	50		traverse and return all non-deleted assets' instances	1398192834709	1398192834709	1398192877376	1398192894714	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	50	1398192834708	1398192894716
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	51		traverse and return all non-deleted assets' instances	1398192834809	1398192834809	1398192880166	1398192894814	KO	Request reached time out of 60000 ms after 60003 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	51	1398192834808	1398192894815
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	52		traverse and return all non-deleted assets' instances	1398192834910	1398192834910	1398192880570	1398192894915	KO	Request reached time out of 60000 ms after 60005 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	52	1398192834908	1398192894918
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	53		traverse and return all non-deleted assets' instances	1398192835009	1398192835009	1398192876817	1398192895014	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	53	1398192835008	1398192895016
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	54		traverse and return all non-deleted assets' instances	1398192835110	1398192835110	1398192872276	1398192895115	KO	Request reached time out of 60000 ms after 60005 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	54	1398192835108	1398192895117
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	55		traverse and return all non-deleted assets' instances	1398192835209	1398192835209	1398192877373	1398192895213	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	55	1398192835208	1398192895214
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	56		traverse and return all non-deleted assets' instances	1398192835309	1398192835309	1398192880687	1398192895312	KO	Request reached time out of 60000 ms after 60003 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	56	1398192835308	1398192895314
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	57		traverse and return all non-deleted assets' instances	1398192835409	1398192835409	1398192872275	1398192895414	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	57	1398192835408	1398192895417
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	58		traverse and return all non-deleted assets' instances	1398192835509	1398192835509	1398192878569	1398192895513	KO	Request reached time out of 60000 ms after 60003 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	58	1398192835508	1398192895515
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	59		traverse and return all non-deleted assets' instances	1398192835609	1398192835609	1398192880167	1398192895612	KO	Request reached time out of 60000 ms after 60003 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	59	1398192835608	1398192895614
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	60		traverse and return all non-deleted assets' instances	1398192835709	1398192835709	1398192880822	1398192895712	KO	Request reached time out of 60000 ms after 60003 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	60	1398192835708	1398192895714
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	61		traverse and return all non-deleted assets' instances	1398192835810	1398192835810	1398192880911	1398192895814	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	61	1398192835808	1398192895818
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	62		traverse and return all non-deleted assets' instances	1398192835909	1398192835909	1398192877492	1398192895913	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	62	1398192835908	1398192895914
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	63		traverse and return all non-deleted assets' instances	1398192836010	1398192836010	1398192872760	1398192896016	KO	Request reached time out of 60000 ms after 60005 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	63	1398192836009	1398192896018
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	64		traverse and return all non-deleted assets' instances	1398192836110	1398192836110	1398192880742	1398192896115	KO	Request reached time out of 60000 ms after 60005 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	64	1398192836108	1398192896118
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	65		traverse and return all non-deleted assets' instances	1398192836210	1398192836210	1398192877926	1398192896215	KO	Request reached time out of 60000 ms after 60005 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	65	1398192836208	1398192896218
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	66		traverse and return all non-deleted assets' instances	1398192836310	1398192836310	1398192880344	1398192896323	KO	Request reached time out of 60000 ms after 60012 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	66	1398192836308	1398192896362
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	86		traverse and return all non-deleted assets' instances	1398192838360	1398192838360	1398192880829	1398192895844	OK	 
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	86	1398192838359	1398192896442
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	67		traverse and return all non-deleted assets' instances	1398192836410	1398192836410	1398192877931	1398192896445	KO	Request reached time out of 60000 ms after 60034 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	67	1398192836408	1398192896447
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	68		traverse and return all non-deleted assets' instances	1398192836509	1398192836509	1398192880885	1398192896274	OK	 
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	68	1398192836508	1398192896508
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	69		traverse and return all non-deleted assets' instances	1398192836610	1398192836610	1398192876780	1398192896615	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	69	1398192836609	1398192896618
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	70		traverse and return all non-deleted assets' instances	1398192836709	1398192836709	1398192878061	1398192896824	KO	Request reached time out of 60000 ms after 60114 ms
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	71		traverse and return all non-deleted assets' instances	1398192836810	1398192836810	1398192872747	1398192896824	KO	Request reached time out of 60000 ms after 60014 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	70	1398192836708	1398192896830
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	71	1398192836809	1398192896830
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	72		traverse and return all non-deleted assets' instances	1398192836909	1398192836909	1398192880820	1398192896914	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	72	1398192836908	1398192896915
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	73		traverse and return all non-deleted assets' instances	1398192837010	1398192837010	1398192871829	1398192897015	KO	Request reached time out of 60000 ms after 60005 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	73	1398192837008	1398192897017
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	74		traverse and return all non-deleted assets' instances	1398192837110	1398192837110	1398192878070	1398192897114	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	74	1398192837109	1398192897117
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	75		traverse and return all non-deleted assets' instances	1398192837210	1398192837210	1398192877810	1398192897215	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	75	1398192837209	1398192897217
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	98		traverse and return all non-deleted assets' instances	1398192839560	1398192839560	1398192880576	1398192897178	OK	 
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	98	1398192839559	1398192897299
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	76		traverse and return all non-deleted assets' instances	1398192837309	1398192837309	1398192877995	1398192897312	KO	Request reached time out of 60000 ms after 60003 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	76	1398192837308	1398192897315
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	77		traverse and return all non-deleted assets' instances	1398192837409	1398192837409	1398192877372	1398192897413	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	77	1398192837408	1398192897415
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	78		traverse and return all non-deleted assets' instances	1398192837509	1398192837509	1398192878063	1398192897512	KO	Request reached time out of 60000 ms after 60003 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	78	1398192837508	1398192897515
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	79		traverse and return all non-deleted assets' instances	1398192837609	1398192837609	1398192871682	1398192897615	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	79	1398192837608	1398192897618
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	80		traverse and return all non-deleted assets' instances	1398192837710	1398192837710	1398192877007	1398192897715	KO	Request reached time out of 60000 ms after 60005 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	80	1398192837709	1398192897718
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	81		traverse and return all non-deleted assets' instances	1398192837810	1398192837810	1398192872645	1398192897815	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	81	1398192837809	1398192897817
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	82		traverse and return all non-deleted assets' instances	1398192837910	1398192837910	1398192878041	1398192897914	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	82	1398192837909	1398192897917
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	83		traverse and return all non-deleted assets' instances	1398192838009	1398192838009	1398192871687	1398192898014	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	83	1398192838008	1398192898018
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	84		traverse and return all non-deleted assets' instances	1398192838110	1398192838110	1398192880861	1398192898116	KO	Request reached time out of 60000 ms after 60005 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	84	1398192838109	1398192898118
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	85		traverse and return all non-deleted assets' instances	1398192838260	1398192838260	1398192880738	1398192898266	KO	Request reached time out of 60000 ms after 60005 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	85	1398192838259	1398192898268
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	87		traverse and return all non-deleted assets' instances	1398192838460	1398192838460	1398192876720	1398192898464	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	87	1398192838459	1398192898467
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	88		traverse and return all non-deleted assets' instances	1398192838559	1398192838559	1398192877787	1398192898563	KO	Request reached time out of 60000 ms after 60003 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	88	1398192838559	1398192898566
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	99		traverse and return all non-deleted assets' instances	1398192839659	1398192839659	1398192880568	1398192898447	OK	 
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	99	1398192839658	1398192898596
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	89		traverse and return all non-deleted assets' instances	1398192838660	1398192838660	1398192878074	1398192898664	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	89	1398192838659	1398192898666
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	90		traverse and return all non-deleted assets' instances	1398192838760	1398192838760	1398192878225	1398192898764	KO	Request reached time out of 60000 ms after 60003 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	90	1398192838759	1398192898767
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	91		traverse and return all non-deleted assets' instances	1398192838859	1398192838859	1398192877935	1398192898864	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	91	1398192838859	1398192898868
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	92		traverse and return all non-deleted assets' instances	1398192838960	1398192838960	1398192877502	1398192898965	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	92	1398192838959	1398192898968
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	93		traverse and return all non-deleted assets' instances	1398192839059	1398192839059	1398192877378	1398192899064	KO	Request reached time out of 60000 ms after 60004 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	93	1398192839058	1398192899067
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	95		traverse and return all non-deleted assets' instances	1398192839260	1398192839260	1398192872264	1398192899273	KO	Request reached time out of 60000 ms after 60012 ms
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	95	1398192839259	1398192899276
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	94		traverse and return all non-deleted assets' instances	1398192839160	1398192839160	1398192880888	1398192899124	OK	 
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	94	1398192839159	1398192899277
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	96		traverse and return all non-deleted assets' instances	1398192839360	1398192839360	1398192880917	1398192899207	OK	 
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	96	1398192839359	1398192899368
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	97		traverse and return all non-deleted assets' instances	1398192839460	1398192839460	1398192876800	1398192899377	OK	 
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	97	1398192839459	1398192899483

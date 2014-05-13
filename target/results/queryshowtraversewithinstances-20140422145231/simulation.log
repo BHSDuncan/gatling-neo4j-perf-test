@@ -1,0 +1,264 @@
+RUN	20140422145231	queryshowtraversewithinstances	 
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	25		traverse and return all non-deleted assets' instances	1398192755919	1398192755919	1398192759220	1398192759220	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	17		traverse and return all non-deleted assets' instances	1398192755068	1398192755068	1398192759263	1398192759263	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	15		traverse and return all non-deleted assets' instances	1398192754869	1398192754869	1398192759268	1398192759268	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	5		traverse and return all non-deleted assets' instances	1398192753869	1398192753869	1398192759225	1398192759225	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	1		traverse and return all non-deleted assets' instances	1398192753468	1398192753468	1398192759262	1398192759262	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	10		traverse and return all non-deleted assets' instances	1398192754369	1398192754369	1398192759274	1398192759274	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	6		traverse and return all non-deleted assets' instances	1398192753969	1398192753969	1398192759281	1398192759281	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	33		traverse and return all non-deleted assets' instances	1398192756718	1398192756718	1398192759248	1398192759248	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	7		traverse and return all non-deleted assets' instances	1398192754069	1398192754069	1398192759221	1398192759221	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	23		traverse and return all non-deleted assets' instances	1398192755668	1398192755668	1398192759269	1398192759269	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	8		traverse and return all non-deleted assets' instances	1398192754168	1398192754168	1398192759271	1398192759271	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	16		traverse and return all non-deleted assets' instances	1398192754968	1398192754968	1398192759270	1398192759270	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	31		traverse and return all non-deleted assets' instances	1398192756519	1398192756519	1398192759260	1398192759260	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	4		traverse and return all non-deleted assets' instances	1398192753768	1398192753768	1398192759278	1398192759278	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	0		traverse and return all non-deleted assets' instances	1398192753394	1398192753394	1398192759219	1398192759219	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	9		traverse and return all non-deleted assets' instances	1398192754269	1398192754269	1398192759264	1398192759264	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	14		traverse and return all non-deleted assets' instances	1398192754769	1398192754769	1398192759223	1398192759223	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	13		traverse and return all non-deleted assets' instances	1398192754668	1398192754668	1398192759259	1398192759259	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	32		traverse and return all non-deleted assets' instances	1398192756618	1398192756618	1398192759272	1398192759272	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	12		traverse and return all non-deleted assets' instances	1398192754568	1398192754568	1398192759277	1398192759277	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	19		traverse and return all non-deleted assets' instances	1398192755269	1398192755269	1398192759279	1398192759279	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	29		traverse and return all non-deleted assets' instances	1398192756319	1398192756319	1398192759258	1398192759258	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	18		traverse and return all non-deleted assets' instances	1398192755168	1398192755168	1398192759218	1398192759218	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	28		traverse and return all non-deleted assets' instances	1398192756218	1398192756218	1398192759279	1398192759279	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	21		traverse and return all non-deleted assets' instances	1398192755469	1398192755469	1398192759242	1398192759242	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	24		traverse and return all non-deleted assets' instances	1398192755768	1398192755768	1398192759271	1398192759271	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	20		traverse and return all non-deleted assets' instances	1398192755369	1398192755369	1398192759224	1398192759224	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	27		traverse and return all non-deleted assets' instances	1398192756119	1398192756119	1398192759279	1398192759279	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	26		traverse and return all non-deleted assets' instances	1398192756019	1398192756019	1398192759275	1398192759275	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	34		traverse and return all non-deleted assets' instances	1398192756818	1398192756818	1398192759273	1398192759273	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	11		traverse and return all non-deleted assets' instances	1398192754469	1398192754469	1398192759217	1398192759217	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	2		traverse and return all non-deleted assets' instances	1398192753569	1398192753569	1398192759274	1398192759274	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	3		traverse and return all non-deleted assets' instances	1398192753668	1398192753668	1398192759280	1398192759280	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	22		traverse and return all non-deleted assets' instances	1398192755574	1398192755574	1398192759280	1398192759280	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	5	1398192753867	1398192759340
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	1	1398192753467	1398192759340
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	7	1398192754067	1398192759340
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	8	1398192754167	1398192759341
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	4	1398192753767	1398192759341
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	0	1398192753342	1398192759341
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	9	1398192754267	1398192759341
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	6	1398192753967	1398192759341
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	2	1398192753568	1398192759342
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	3	1398192753667	1398192759342
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	36		traverse and return all non-deleted assets' instances	1398192757019	1398192757019	1398192759446	1398192759446	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	30		traverse and return all non-deleted assets' instances	1398192756419	1398192756419	1398192759487	1398192759487	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	35		traverse and return all non-deleted assets' instances	1398192756919	1398192756919	1398192759493	1398192759493	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	37		traverse and return all non-deleted assets' instances	1398192757118	1398192757118	1398192760302	1398192760303	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	41		traverse and return all non-deleted assets' instances	1398192757518	1398192757518	1398192760638	1398192760638	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	38		traverse and return all non-deleted assets' instances	1398192757218	1398192757218	1398192760808	1398192760808	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	39		traverse and return all non-deleted assets' instances	1398192757319	1398192757319	1398192761470	1398192761470	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	43		traverse and return all non-deleted assets' instances	1398192757719	1398192757719	1398192761512	1398192761512	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	40		traverse and return all non-deleted assets' instances	1398192757418	1398192757418	1398192761924	1398192761924	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	42		traverse and return all non-deleted assets' instances	1398192757618	1398192757618	1398192761932	1398192761932	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	48		traverse and return all non-deleted assets' instances	1398192758219	1398192758219	1398192762375	1398192762375	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	47		traverse and return all non-deleted assets' instances	1398192758118	1398192758118	1398192762898	1398192762898	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	45		traverse and return all non-deleted assets' instances	1398192757919	1398192757919	1398192763243	1398192763243	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	45	1398192757917	1398192763244
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	49		traverse and return all non-deleted assets' instances	1398192758318	1398192758318	1398192763615	1398192763615	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	49	1398192758317	1398192763616
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	46		traverse and return all non-deleted assets' instances	1398192758018	1398192758018	1398192763775	1398192763776	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	46	1398192758017	1398192763777
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	44		traverse and return all non-deleted assets' instances	1398192757818	1398192757818	1398192763787	1398192763787	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	44	1398192757817	1398192763795
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	55		traverse and return all non-deleted assets' instances	1398192758919	1398192758919	1398192764289	1398192764289	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	55	1398192758918	1398192764292
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	50		traverse and return all non-deleted assets' instances	1398192758418	1398192758418	1398192764407	1398192764407	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	50	1398192758417	1398192764408
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	51		traverse and return all non-deleted assets' instances	1398192758518	1398192758518	1398192764520	1398192764520	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	51	1398192758517	1398192764521
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	19		traverse and return all non-deleted assets' instances	1398192759356	1398192759356	1398192764672	1398192764672	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	19	1398192755267	1398192764674
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	33		traverse and return all non-deleted assets' instances	1398192759347	1398192759347	1398192765159	1398192765159	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	33	1398192756717	1398192765161
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	52		traverse and return all non-deleted assets' instances	1398192758618	1398192758618	1398192765250	1398192765250	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	52	1398192758617	1398192765251
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	15		traverse and return all non-deleted assets' instances	1398192759344	1398192759344	1398192765365	1398192765365	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	15	1398192754867	1398192765366
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	58		traverse and return all non-deleted assets' instances	1398192759226	1398192759226	1398192765372	1398192765372	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	58	1398192759225	1398192765373
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	28		traverse and return all non-deleted assets' instances	1398192759358	1398192759358	1398192765375	1398192765375	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	28	1398192756217	1398192765376
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	53		traverse and return all non-deleted assets' instances	1398192758718	1398192758718	1398192765381	1398192765381	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	53	1398192758717	1398192765382
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	34		traverse and return all non-deleted assets' instances	1398192759364	1398192759364	1398192765406	1398192765406	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	34	1398192756817	1398192765408
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	24		traverse and return all non-deleted assets' instances	1398192759360	1398192759360	1398192765442	1398192765442	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	24	1398192755767	1398192765443
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	54		traverse and return all non-deleted assets' instances	1398192758819	1398192758819	1398192765474	1398192765474	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	54	1398192758818	1398192765475
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	23		traverse and return all non-deleted assets' instances	1398192759348	1398192759348	1398192765512	1398192765512	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	21		traverse and return all non-deleted assets' instances	1398192759359	1398192759359	1398192765512	1398192765512	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	23	1398192755667	1398192765513
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	21	1398192755467	1398192765513
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	64		traverse and return all non-deleted assets' instances	1398192759819	1398192759819	1398192765622	1398192765622	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	64	1398192759817	1398192765624
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	42		traverse and return all non-deleted assets' instances	1398192761969	1398192761969	1398192765735	1398192765735	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	42	1398192757617	1398192765736
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	85		traverse and return all non-deleted assets' instances	1398192761970	1398192761970	1398192765752	1398192765752	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	27		traverse and return all non-deleted assets' instances	1398192759362	1398192759362	1398192765757	1398192765757	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	27	1398192756117	1398192765758
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	29		traverse and return all non-deleted assets' instances	1398192759357	1398192759357	1398192765797	1398192765797	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	29	1398192756317	1398192765798
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	62		traverse and return all non-deleted assets' instances	1398192759618	1398192759618	1398192765799	1398192765799	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	62	1398192759617	1398192765801
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	10		traverse and return all non-deleted assets' instances	1398192759346	1398192759346	1398192765845	1398192765845	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	10	1398192754367	1398192765846
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	22		traverse and return all non-deleted assets' instances	1398192759365	1398192759365	1398192765901	1398192765901	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	22	1398192755573	1398192765902
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	56		traverse and return all non-deleted assets' instances	1398192759019	1398192759019	1398192765922	1398192765922	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	56	1398192759018	1398192765923
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	25		traverse and return all non-deleted assets' instances	1398192759345	1398192759345	1398192765933	1398192765933	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	25	1398192755917	1398192765935
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	16		traverse and return all non-deleted assets' instances	1398192759349	1398192759349	1398192765947	1398192765947	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	16	1398192754967	1398192765948
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	57		traverse and return all non-deleted assets' instances	1398192759120	1398192759120	1398192765953	1398192765953	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	57	1398192759118	1398192765955
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	17		traverse and return all non-deleted assets' instances	1398192759340	1398192759340	1398192765961	1398192765961	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	17	1398192755067	1398192765962
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	60		traverse and return all non-deleted assets' instances	1398192759418	1398192759418	1398192765975	1398192765975	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	60	1398192759417	1398192765976
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	20		traverse and return all non-deleted assets' instances	1398192759361	1398192759361	1398192766025	1398192766025	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	20	1398192755367	1398192766027
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	14		traverse and return all non-deleted assets' instances	1398192759352	1398192759352	1398192766039	1398192766039	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	14	1398192754767	1398192766040
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	18		traverse and return all non-deleted assets' instances	1398192759357	1398192759357	1398192766073	1398192766073	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	18	1398192755167	1398192766074
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	61		traverse and return all non-deleted assets' instances	1398192759521	1398192759521	1398192766108	1398192766108	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	61	1398192759517	1398192766110
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	31		traverse and return all non-deleted assets' instances	1398192759350	1398192759350	1398192766136	1398192766136	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	31	1398192756517	1398192766138
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	13		traverse and return all non-deleted assets' instances	1398192759351	1398192759351	1398192766178	1398192766178	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	13	1398192754667	1398192766179
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	11		traverse and return all non-deleted assets' instances	1398192759365	1398192759365	1398192766207	1398192766207	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	11	1398192754468	1398192766209
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	32		traverse and return all non-deleted assets' instances	1398192759354	1398192759354	1398192766244	1398192766244	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	32	1398192756617	1398192766246
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	12		traverse and return all non-deleted assets' instances	1398192759355	1398192759355	1398192766257	1398192766257	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	12	1398192754567	1398192766258
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	35		traverse and return all non-deleted assets' instances	1398192759519	1398192759519	1398192766267	1398192766267	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	35	1398192756917	1398192766268
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	36		traverse and return all non-deleted assets' instances	1398192759468	1398192759468	1398192766328	1398192766328	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	36	1398192757017	1398192766329
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	59		traverse and return all non-deleted assets' instances	1398192759335	1398192759335	1398192766357	1398192766357	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	59	1398192759334	1398192766358
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	26		traverse and return all non-deleted assets' instances	1398192759363	1398192759363	1398192766362	1398192766362	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	26	1398192756017	1398192766364
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	30		traverse and return all non-deleted assets' instances	1398192759518	1398192759518	1398192766398	1398192766398	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	30	1398192756417	1398192766400
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	63		traverse and return all non-deleted assets' instances	1398192759718	1398192759718	1398192766408	1398192766408	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	63	1398192759717	1398192766409
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	65		traverse and return all non-deleted assets' instances	1398192759918	1398192759918	1398192766442	1398192766442	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	65	1398192759917	1398192766444
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	67		traverse and return all non-deleted assets' instances	1398192760118	1398192760118	1398192766474	1398192766474	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	67	1398192760117	1398192766475
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	37		traverse and return all non-deleted assets' instances	1398192760318	1398192760318	1398192766593	1398192766593	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	37	1398192757117	1398192766594
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	68		traverse and return all non-deleted assets' instances	1398192760218	1398192760218	1398192766703	1398192766703	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	68	1398192760217	1398192766704
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	76		traverse and return all non-deleted assets' instances	1398192761069	1398192761069	1398192766785	1398192766785	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	76	1398192761067	1398192766787
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	66		traverse and return all non-deleted assets' instances	1398192760018	1398192760018	1398192766812	1398192766812	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	66	1398192760017	1398192766813
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	73		traverse and return all non-deleted assets' instances	1398192760768	1398192760768	1398192766835	1398192766835	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	73	1398192760767	1398192766836
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	71		traverse and return all non-deleted assets' instances	1398192760518	1398192760518	1398192766837	1398192766837	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	71	1398192760517	1398192766838
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	69		traverse and return all non-deleted assets' instances	1398192760320	1398192760320	1398192766900	1398192766900	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	69	1398192760317	1398192766902
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	41		traverse and return all non-deleted assets' instances	1398192760671	1398192760671	1398192766912	1398192766912	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	41	1398192757517	1398192766913
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	70		traverse and return all non-deleted assets' instances	1398192760418	1398192760418	1398192766951	1398192766951	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	70	1398192760417	1398192766953
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	81		traverse and return all non-deleted assets' instances	1398192761568	1398192761568	1398192766963	1398192766963	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	81	1398192761567	1398192766965
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	74		traverse and return all non-deleted assets' instances	1398192760868	1398192760868	1398192767015	1398192767015	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	74	1398192760867	1398192767016
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	43		traverse and return all non-deleted assets' instances	1398192761519	1398192761519	1398192767037	1398192767037	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	43	1398192757717	1398192767038
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	75		traverse and return all non-deleted assets' instances	1398192760968	1398192760968	1398192767061	1398192767061	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	75	1398192760967	1398192767062
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	38		traverse and return all non-deleted assets' instances	1398192760811	1398192760811	1398192767065	1398192767065	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	38	1398192757217	1398192767067
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	72		traverse and return all non-deleted assets' instances	1398192760668	1398192760668	1398192767077	1398192767077	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	72	1398192760667	1398192767078
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	39		traverse and return all non-deleted assets' instances	1398192761518	1398192761518	1398192767111	1398192767111	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	39	1398192757317	1398192767113
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	79		traverse and return all non-deleted assets' instances	1398192761369	1398192761369	1398192767127	1398192767127	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	79	1398192761367	1398192767128
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	80		traverse and return all non-deleted assets' instances	1398192761468	1398192761468	1398192767164	1398192767164	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	80	1398192761467	1398192767166
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	77		traverse and return all non-deleted assets' instances	1398192761168	1398192761168	1398192767231	1398192767231	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	77	1398192761167	1398192767232
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	78		traverse and return all non-deleted assets' instances	1398192761268	1398192761268	1398192767268	1398192767268	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	78	1398192761267	1398192767269
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	86		traverse and return all non-deleted assets' instances	1398192762068	1398192762068	1398192767300	1398192767301	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	86	1398192762067	1398192767302
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	82		traverse and return all non-deleted assets' instances	1398192761668	1398192761668	1398192767349	1398192767349	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	82	1398192761667	1398192767350
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	89		traverse and return all non-deleted assets' instances	1398192762368	1398192762368	1398192767377	1398192767377	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	89	1398192762367	1398192767378
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	88		traverse and return all non-deleted assets' instances	1398192762268	1398192762268	1398192767383	1398192767383	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	88	1398192762267	1398192767384
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	40		traverse and return all non-deleted assets' instances	1398192761968	1398192761968	1398192767439	1398192767439	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	40	1398192757417	1398192767441
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	84		traverse and return all non-deleted assets' instances	1398192761868	1398192761868	1398192767445	1398192767445	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	84	1398192761867	1398192767446
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	83		traverse and return all non-deleted assets' instances	1398192761768	1398192761768	1398192767452	1398192767452	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	83	1398192761767	1398192767454
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	87		traverse and return all non-deleted assets' instances	1398192762168	1398192762168	1398192767454	1398192767454	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	87	1398192762167	1398192767456
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	92		traverse and return all non-deleted assets' instances	1398192762668	1398192762668	1398192767460	1398192767460	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	99		traverse and return all non-deleted assets' instances	1398192763368	1398192763368	1398192767472	1398192767472	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	47		traverse and return all non-deleted assets' instances	1398192762901	1398192762901	1398192767476	1398192767476	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	47	1398192758117	1398192767478
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	94		traverse and return all non-deleted assets' instances	1398192762868	1398192762868	1398192767480	1398192767480	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	90		traverse and return all non-deleted assets' instances	1398192762468	1398192762468	1398192767480	1398192767480	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	90	1398192762467	1398192767481
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	48		traverse and return all non-deleted assets' instances	1398192762378	1398192762378	1398192767486	1398192767486	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	93		traverse and return all non-deleted assets' instances	1398192762768	1398192762768	1398192767485	1398192767485	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	48	1398192758217	1398192767487
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	96		traverse and return all non-deleted assets' instances	1398192763068	1398192763068	1398192767493	1398192767493	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	91		traverse and return all non-deleted assets' instances	1398192762568	1398192762568	1398192767497	1398192767497	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	97		traverse and return all non-deleted assets' instances	1398192763168	1398192763168	1398192767505	1398192767505	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	95		traverse and return all non-deleted assets' instances	1398192762968	1398192762968	1398192767511	1398192767511	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	98		traverse and return all non-deleted assets' instances	1398192763268	1398192763268	1398192767518	1398192767518	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	85		traverse and return all non-deleted assets' instances	1398192765754	1398192765754	1398192767550	1398192767550	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	85	1398192761967	1398192767551
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	92		traverse and return all non-deleted assets' instances	1398192767462	1398192767462	1398192767707	1398192767707	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	92	1398192762667	1398192767709
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	91		traverse and return all non-deleted assets' instances	1398192767520	1398192767520	1398192767768	1398192767768	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	91	1398192762567	1398192767770
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	99		traverse and return all non-deleted assets' instances	1398192767474	1398192767474	1398192767770	1398192767770	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	98		traverse and return all non-deleted assets' instances	1398192767568	1398192767568	1398192767770	1398192767770	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	97		traverse and return all non-deleted assets' instances	1398192767518	1398192767518	1398192767790	1398192767790	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	93		traverse and return all non-deleted assets' instances	1398192767488	1398192767488	1398192767816	1398192767816	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	93	1398192762767	1398192767817
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	96		traverse and return all non-deleted assets' instances	1398192767520	1398192767520	1398192767817	1398192767817	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	95		traverse and return all non-deleted assets' instances	1398192767521	1398192767521	1398192767828	1398192767828	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	94		traverse and return all non-deleted assets' instances	1398192767519	1398192767519	1398192767846	1398192767846	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	96		traverse and return all non-deleted assets' instances	1398192767819	1398192767819	1398192767975	1398192767975	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	95		traverse and return all non-deleted assets' instances	1398192767830	1398192767830	1398192768000	1398192768000	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	95	1398192762967	1398192768001
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	99		traverse and return all non-deleted assets' instances	1398192767818	1398192767818	1398192768071	1398192768071	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	98		traverse and return all non-deleted assets' instances	1398192767772	1398192767772	1398192768072	1398192768072	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	94		traverse and return all non-deleted assets' instances	1398192767848	1398192767848	1398192768074	1398192768074	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	94	1398192762867	1398192768076
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	97		traverse and return all non-deleted assets' instances	1398192767792	1398192767792	1398192768079	1398192768079	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	96		traverse and return all non-deleted assets' instances	1398192767977	1398192767977	1398192768157	1398192768157	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	96	1398192763067	1398192768159
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	97		traverse and return all non-deleted assets' instances	1398192768081	1398192768081	1398192768173	1398192768173	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	97	1398192763167	1398192768174
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	98		traverse and return all non-deleted assets' instances	1398192768074	1398192768074	1398192768192	1398192768192	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	99		traverse and return all non-deleted assets' instances	1398192768073	1398192768073	1398192768192	1398192768192	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	99		traverse and return all non-deleted assets' instances	1398192768196	1398192768196	1398192768235	1398192768235	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	98		traverse and return all non-deleted assets' instances	1398192768195	1398192768195	1398192768266	1398192768266	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	99		traverse and return all non-deleted assets' instances	1398192768236	1398192768236	1398192768287	1398192768287	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	98		traverse and return all non-deleted assets' instances	1398192768268	1398192768268	1398192768311	1398192768311	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	98	1398192763267	1398192768312
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	99		traverse and return all non-deleted assets' instances	1398192768288	1398192768288	1398192768326	1398192768326	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	99		traverse and return all non-deleted assets' instances	1398192768328	1398192768328	1398192768362	1398192768362	KO	jsonPath(data).exists() didn't match: found nothing
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	99		traverse and return all non-deleted assets' instances	1398192768364	1398192768364	1398192768397	1398192768397	KO	jsonPath(data).exists() didn't match: found nothing
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	99	1398192763367	1398192768399

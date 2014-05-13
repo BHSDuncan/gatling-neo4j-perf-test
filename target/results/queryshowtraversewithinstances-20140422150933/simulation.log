@@ -1,0 +1,40 @@
+RUN	20140422150933	queryshowtraversewithinstances	 
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	0		traverse and return all non-deleted assets' instances	1398193775159	1398193775159	1398193775426	1398193775891	OK	 
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	1		traverse and return all non-deleted assets' instances	1398193776214	1398193776214	1398193776509	1398193777229	OK	 
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	0		traverse and return all non-deleted assets' instances	1398193776419	1398193776419	1398193776767	1398193777809	OK	 
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	1		traverse and return all non-deleted assets' instances	1398193777626	1398193777626	1398193777919	1398193778956	OK	 
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	2		traverse and return all non-deleted assets' instances	1398193777322	1398193777322	1398193777827	1398193779221	OK	 
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	3		traverse and return all non-deleted assets' instances	1398193778464	1398193778464	1398193778739	1398193779954	OK	 
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	0		traverse and return all non-deleted assets' instances	1398193777969	1398193777969	1398193778224	1398193780192	OK	 
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	0	1398193775097	1398193780308
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	1		traverse and return all non-deleted assets' instances	1398193779112	1398193779112	1398193779326	1398193780993	OK	 
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	4		traverse and return all non-deleted assets' instances	1398193779564	1398193779564	1398193779782	1398193781400	OK	 
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	2		traverse and return all non-deleted assets' instances	1398193779334	1398193779334	1398193779555	1398193781469	OK	 
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	3		traverse and return all non-deleted assets' instances	1398193780074	1398193780074	1398193780294	1398193782660	OK	 
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	1		traverse and return all non-deleted assets' instances	1398193781106	1398193781106	1398193781325	1398193783112	OK	 
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	1	1398193776213	1398193783314
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	5		traverse and return all non-deleted assets' instances	1398193780664	1398193780664	1398193780883	1398193783273	OK	 
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	4		traverse and return all non-deleted assets' instances	1398193781785	1398193781785	1398193782158	1398193784518	OK	 
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	4	1398193779563	1398193784667
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	2		traverse and return all non-deleted assets' instances	1398193781835	1398193781835	1398193782210	1398193784811	OK	 
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	2	1398193777321	1398193784909
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	6		traverse and return all non-deleted assets' instances	1398193781814	1398193781814	1398193782298	1398193785054	OK	 
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	3		traverse and return all non-deleted assets' instances	1398193782776	1398193782776	1398193783018	1398193785475	OK	 
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	3	1398193778463	1398193785619
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	7		traverse and return all non-deleted assets' instances	1398193782914	1398193782914	1398193783236	1398193785611	OK	 
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	5		traverse and return all non-deleted assets' instances	1398193783476	1398193783476	1398193783698	1398193786025	OK	 
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	5	1398193780663	1398193786143
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	8		traverse and return all non-deleted assets' instances	1398193784014	1398193784014	1398193784249	1398193786383	OK	 
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	6		traverse and return all non-deleted assets' instances	1398193785157	1398193785157	1398193785452	1398193787188	OK	 
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	6	1398193781813	1398193787288
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	9		traverse and return all non-deleted assets' instances	1398193785114	1398193785114	1398193785379	1398193787326	OK	 
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	7		traverse and return all non-deleted assets' instances	1398193785710	1398193785710	1398193785904	1398193787392	OK	 
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	8		traverse and return all non-deleted assets' instances	1398193786481	1398193786481	1398193786678	1398193788167	OK	 
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	9		traverse and return all non-deleted assets' instances	1398193787430	1398193787430	1398193787671	1398193788840	OK	 
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	7		traverse and return all non-deleted assets' instances	1398193787496	1398193787496	1398193787776	1398193789267	OK	 
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	7	1398193782913	1398193789363
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	8		traverse and return all non-deleted assets' instances	1398193788305	1398193788305	1398193788490	1398193789554	OK	 
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	8	1398193784013	1398193789670
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	9		traverse and return all non-deleted assets' instances	1398193788946	1398193788946	1398193789143	1398193789856	OK	 
+REQUEST	Traverse from a scrid, get all non-deleted assets, return their instances.	9		traverse and return all non-deleted assets' instances	1398193789952	1398193789952	1398193790126	1398193790560	OK	 
+SCENARIO	Traverse from a scrid, get all non-deleted assets, return their instances.	9	1398193785113	1398193790666
